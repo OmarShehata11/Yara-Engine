@@ -24,6 +24,7 @@
     <ProjectGuid>{0c41f51f-2d8a-4bbe-bf15-0c693e73a4c3}</ProjectGuid>
     <RootNamespace>TheCYaraAgent</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>YARA-Engine</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
