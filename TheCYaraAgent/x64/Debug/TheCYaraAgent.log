@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(95,11): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(97,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(153,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(153,11):
+  consider using '%zd' in the format string
+  
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(153,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(153,11):
+  consider using '%zd' in the format string
+  
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(226,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(226,9):
+  consider using '%zd' in the format string
+  
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(226,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'std::vector<byte,std::allocator<byte>>'
+C:\Users\Omar Shehata\source\repos\TheCYaraAgent\TheCYaraAgent\Main.cpp(240,51): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  TheCYaraAgent.vcxproj -> C:\Users\Omar Shehata\source\repos\TheCYaraAgent\x64\Debug\TheCYaraAgent.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
