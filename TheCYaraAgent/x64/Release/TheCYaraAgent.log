@@ -1,0 +1,26 @@
+﻿  getopt.c
+  Importing getopt library
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(54,5): warning C4273: 'optind': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(55,5): warning C4273: 'opterr': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(56,5): warning C4273: 'optopt': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(77,7): warning C4273: 'optarg_a': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(435,5): warning C4273: 'getopt_a': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(440,5): warning C4273: 'getopt_long_a': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(445,5): warning C4273: 'getopt_long_only_a': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(478,10): warning C4273: 'optarg_w': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(833,5): warning C4273: 'getopt_w': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(838,5): warning C4273: 'getopt_long_w': inconsistent dll linkage
+D:\GITHUB projects\TheCYaraAgent\getopt_mb_uni_src_2022\getopt.c(843,5): warning C4273: 'getopt_long_only_w': inconsistent dll linkage
+  Main.cpp
+  Importing getopt library
+D:\GITHUB projects\TheCYaraAgent\TheCYaraAgent\Main.cpp(122,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GITHUB projects\TheCYaraAgent\TheCYaraAgent\Main.cpp(348,83): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+     Creating library D:\GITHUB projects\TheCYaraAgent\x64\Release\TheCYaraAgent.lib and object D:\GITHUB projects\TheCYaraAgent\x64\Release\TheCYaraAgent.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\GITHUB projects\TheCYaraAgent\TheCYaraAgent\Main.cpp(219): warning C4172: returning address of local variable or temporary: lpImageFileName
+  All 654 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TheCYaraAgent.vcxproj -> D:\GITHUB projects\TheCYaraAgent\x64\Release\TheCYaraAgent.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
